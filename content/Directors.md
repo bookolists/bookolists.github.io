@@ -2,56 +2,56 @@
 title: Favorite Directors
 Topic:
 ---
-Woody Allen
-Wes Anderson
-Paul Thomas Anderson
-Robert Altman
-Luis Buñuel
-Peter Bogdanovich
-Luc Besson
-Tim Burton
-Brad Bird
-Frank Capra
-James Cameron
-Coen Brothers
-Francis Ford Coppola
-John Carpenter
-Jonathan Demme
-Brian De Palma
-Guillermo Del Toro
-Federico Fellini
-John Ford
-Milos Forman
-Terry Gilliam
-Peter Greenaway
-Howard Hawks
-Werner Herzog
-Ron Howard
-Orson Welles
-Wim Wenders
-Alfred Hitchcock
-John Huston
-Jim Jarmusch
-Spike Jonze 
-Stanley Kubrick
-Akira Kurosawa
-Spike Lee
-Richard Linklater
-Sidney Lumet
-David Lynch
-Terrence Malick
-Sam Mendes
-George Miller
-Nick Park
-Alan Parker
-Sam Peckinpah
-Nicolas Roeg
-Guy Ritchie
-Sam Raimi
-Martin Scorcese
-Oliver Stone
-Steven Spielberg
-Ridley Scott
-Quentin Tarantino
+[Woody Allen](https://www.imdb.com/name/nm0000095/)
+[Wes Anderson](https://www.imdb.com/name/nm0027572/)
+[Paul Thomas Anderson](https://www.imdb.com/name/nm0000759/)
+[Robert Altman](https://www.imdb.com/name/nm0000265/)
+[Luis Buñuel](https://www.imdb.com/name/nm0000320/)
+[Peter Bogdanovich](https://www.imdb.com/name/nm0000953/)
+[Luc Besson](https://www.imdb.com/name/nm0000108/)
+[Tim Burton](https://www.imdb.com/name/nm0000318/)
+[Brad Bird](https://www.imdb.com/name/nm0083348/)
+[Frank Capra](https://www.imdb.com/name/nm0001008/)
+[James Cameron](https://www.imdb.com/name/nm0000116/)
+[Coen Brothers](https://en.wikipedia.org/wiki/Coen_brothers_filmography)
+[Francis Ford Coppola](https://www.imdb.com/name/nm0000338/)
+[John Carpenter](https://www.imdb.com/name/nm0000118/)
+[Jonathan Demme](https://www.imdb.com/name/nm0001129/)
+[Brian De Palma](https://www.imdb.com/name/nm0000361/)
+[Guillermo Del Toro](https://www.imdb.com/name/nm0868219/)
+[Federico Fellini](https://www.imdb.com/name/nm0000019/)
+[John Ford](https://www.imdb.com/name/nm0000406/)
+[Milos Forman](https://www.imdb.com/name/nm0001232/)
+[Terry Gilliam](https://www.imdb.com/name/nm0000416/)
+[Peter Greenaway](https://www.imdb.com/name/nm0000425/)
+[Howard Hawks](https://www.imdb.com/name/nm0001328/)
+[Werner Herzog](https://www.imdb.com/name/nm0001348/)
+[Ron Howard](https://www.imdb.com/name/nm0000165/)
+[Orson Welles](https://www.imdb.com/name/nm0000080/)
+[Wim Wenders](https://www.imdb.com/name/nm0000694/)
+[Alfred Hitchcock](https://www.imdb.com/name/nm0000033/)
+[John Huston](https://www.imdb.com/name/nm0001379/)
+[Jim Jarmusch](https://www.imdb.com/name/nm0000464/)
+[Spike Jonze](https://www.imdb.com/name/nm0005069/)
+[Stanley Kubrick](https://www.imdb.com/name/nm0000040/)
+[Akira Kurosawa](https://www.imdb.com/name/nm0000041/)
+[Spike Lee](https://www.imdb.com/name/nm0000490/)
+[Richard Linklater](https://www.imdb.com/name/nm0000500/)
+[Sidney Lumet](https://www.imdb.com/name/nm0001486/)
+[David Lynch](https://www.imdb.com/name/nm0000186/)
+[Terrence Malick](https://www.imdb.com/name/nm0000517/)
+[Sam Mendes](https://www.imdb.com/name/nm0005222/)
+[George Miller](https://www.imdb.com/name/nm0004306/)
+[Nick Park](https://www.imdb.com/name/nm0661910/)
+[Alan Parker](https://www.imdb.com/name/nm0000570/)
+[Sam Peckinpah](https://www.imdb.com/name/nm0001603/)
+[Nicolas Roeg](https://www.imdb.com/name/nm0001676/)
+[Guy Ritchie](https://www.imdb.com/name/nm0005363/)
+[Sam Raimi](https://www.imdb.com/name/nm0000600/)
+[Martin Scorcese](https://www.imdb.com/name/nm0000217/)
+[Oliver Stone](https://www.imdb.com/name/nm0000231/)
+[Steven Spielberg](https://www.imdb.com/name/nm0000229/)
+[Ridley Scott](https://www.imdb.com/name/nm0000631/)
+[Quentin Tarantino](https://www.imdb.com/name/nm0000233/)
 
 ![[14.jpeg]]

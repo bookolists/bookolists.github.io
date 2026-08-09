@@ -2,41 +2,41 @@
 title: Favorite Actors
 Topic:
 ---
-(Robert) DeNiro
-Robert Duvall
-Anthony Hopkins
-Val Kilmer
-Ed Harris
-Daniel Day Lewis
-Javier (Bardem)
-Spencer Tracy
-Paul Newman
-Robert Redford
-Brad Pitt
-Jeff Bridges
-Harrison Ford
-Tom Hanks
-Gary Cooper
-George C. Scott
-Jimmy Stewart
-Kevin Costner
-Clint Eastwood
-Tommy Lee Jones
-Kurt Russell
-Bruce Willis
-Matt Damon
-Russel Crowe
-Al Pacino
-Henry Fonda
-Jack Nicholson
-Bill Murray
-Steve Martin
-Dustin Hoffman
-Peter O'Toole
-Michael Caine
-Lawrence Olivier
-Steve McQueen
-Sam Rockwell
-Guy Pearce
+[(Robert) De Niro](https://www.imdb.com/name/nm0000134/)
+[Robert Duvall](https://www.imdb.com/name/nm0000380/)
+[Anthony Hopkins](https://www.imdb.com/name/nm0000164)
+[Val Kilmer](https://www.imdb.com/name/nm0000174/)
+[Ed Harris](https://www.imdb.com/name/nm0000438/)
+[Daniel Day-Lewis](https://www.imdb.com/name/nm0000358/)
+[Javier (Bardem)](https://www.imdb.com/name/nm0000849/)
+[Spencer Tracy](https://www.imdb.com/name/nm0000075/)
+[Paul Newman](https://www.imdb.com/name/nm0000056/)
+[Robert Redford](https://www.imdb.com/name/nm0000602/)
+[Brad Pitt](https://www.imdb.com/name/nm0000093/)
+[Jeff Bridges](https://www.imdb.com/name/nm0000313/)
+[Harrison Ford](https://www.imdb.com/name/nm0000148/)
+[Tom Hanks](https://www.imdb.com/name/nm0000158/)
+[Gary Cooper](https://www.imdb.com/name/nm0000011/)
+[George C. Scott](https://www.imdb.com/name/nm0001715/)
+[Jimmy Stewart](https://www.imdb.com/name/nm0000071/)
+[Kevin Costner](https://www.imdb.com/name/nm0000126/)
+[Clint Eastwood](https://www.imdb.com/name/nm0000142/)
+[Tommy Lee Jones](https://www.imdb.com/name/nm0000169/)
+[Kurt Russell](https://www.imdb.com/name/nm0000621/)
+[Bruce Willis](https://www.imdb.com/name/nm0000246/)
+[Matt Damon](https://www.imdb.com/name/nm0000354/)
+[Russel Crowe](https://www.imdb.com/name/nm0000128/)
+[Al Pacino](https://www.imdb.com/name/nm0000199/)
+[Henry Fonda](https://www.imdb.com/name/nm0000020/)
+[Jack Nicholson](https://www.imdb.com/name/nm0000197/)
+[Bill Murray](https://www.imdb.com/name/nm0000195/)
+[Steve Martin](https://www.imdb.com/name/nm0000188/)
+[Dustin Hoffman](https://www.imdb.com/name/nm0000163/)
+[Peter O'Toole](https://www.imdb.com/name/nm0000564/)
+[Michael Caine](https://www.imdb.com/name/nm0000323/)
+[Laurence Olivier](https://www.imdb.com/name/nm0000059/)
+[Steve McQueen](https://www.imdb.com/name/nm0000537/)
+[Sam Rockwell](https://www.imdb.com/name/nm0005377/)
+[Guy Pearce](https://www.imdb.com/name/nm0001602/)
 
 ![[21.jpeg]]
