@@ -2,8 +2,6 @@
 title: Documentary
 Topic:
 ---
-![[8.jpeg]]
-
 1. Burden of Dreams
 2. Hearts of Darkness
 3. Exit Through the Gift Shop
@@ -14,3 +12,5 @@ Topic:
 8. When We Were Kings
 9. Big Star: Nothing Can Hurt Me
 10. I Am Trying to Break Your Heart
+
+![[8.jpeg]]

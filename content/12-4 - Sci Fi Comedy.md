@@ -2,8 +2,6 @@
 title: Sci-Fi Comedy
 Topic:
 ---
-![[12.jpeg]]
-
 1. Explorers
 2. Galaxy Quest
 3. Mars Attacks
@@ -12,3 +10,5 @@ Topic:
 6. Repo Man
 7. Men in Black
 8. The Hidden
+
+![[12.jpeg]]

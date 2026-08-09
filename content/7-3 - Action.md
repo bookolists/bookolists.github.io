@@ -2,8 +2,6 @@
 title: Action Movies
 Topic:
 ---
-![[7.jpeg]]
-
 1. Aliens
 2. Seven Samurai
 3. Terminator 2
@@ -14,3 +12,5 @@ Topic:
 8. The Bourne Identity
 9. Apocalypto
 10. The Equalizer
+
+![[7.jpeg]]

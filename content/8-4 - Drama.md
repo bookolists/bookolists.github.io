@@ -2,8 +2,6 @@
 title: Drama Movies
 Topic:
 ---
-![[8.jpeg]]
-
 1. To Kill a Mockingbird
 2. The Shawshank Redemption
 3. The Grapes of Wrath
@@ -14,3 +12,5 @@ Topic:
 8. Who's Afraid of Virginia Woolf?
 9. One Flew Over the Cuckoo's Nest
 10. Citizen Kane
+
+![[8.jpeg]]

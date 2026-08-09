@@ -2,8 +2,6 @@
 title: Musicals
 Topic:
 ---
-![[13.jpeg]]
-
 1. The Music Man
 2. West Side Story
 3. Hairspray
@@ -14,3 +12,5 @@ Topic:
 8. A Hard Day's Night
 9. O Brother Where Art Thou
 10. The Buddy Holly Story
+
+![[13.jpeg]]

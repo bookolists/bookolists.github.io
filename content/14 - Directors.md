@@ -2,8 +2,6 @@
 title: Favorite Directors
 Topic:
 ---
-![[14.jpeg]]
-
 Woody Allen
 Wes Anderson
 Paul Thomas Anderson
@@ -55,3 +53,5 @@ Oliver Stone
 Steven Spielberg
 Ridley Scott
 Quentin Tarantino
+
+![[14.jpeg]]

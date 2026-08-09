@@ -2,8 +2,6 @@
 title: Romance Movies
 Topic:
 ---
-![[9.jpeg]]
-
 1. One From the Heart
 2. Always
 3. When Harry Met Sally
@@ -14,3 +12,5 @@ Topic:
 8. Amelie
 9. Roxanne
 10. Groundhog Day
+
+![[9.jpeg]]

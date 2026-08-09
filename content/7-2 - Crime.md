@@ -2,8 +2,6 @@
 title: Crime Movies
 Topic:
 ---
-![[7.jpeg]]
-
 1. Miller's Crossing
 2. LA Confidential
 3. Snatch / Heat
@@ -14,3 +12,5 @@ Topic:
 8. Pulp Fiction
 9. Hell or High Water
 10. Lock, Stock and Two Smoking Barrels
+
+![[7.jpeg]]

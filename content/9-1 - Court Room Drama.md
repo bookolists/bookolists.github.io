@@ -2,8 +2,6 @@
 title: Courtroom Drama
 Topic:
 ---
-![[9.jpeg]]
-
 1. Inherit the Wind
 2. The Rainmaker
 3. 12 Angry Men
@@ -14,3 +12,5 @@ Topic:
 8. Anatomy of a Murder
 9. A Time to Kill
 10. The Client
+
+![[9.jpeg]]

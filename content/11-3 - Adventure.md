@@ -2,8 +2,6 @@
 title: Adventure Movies
 Topic:
 ---
-![[11.jpeg]]
-
 1. Indiana Jones: Raiders of the Lost Ark
 2. Star Wars
 3. Lawrence of Arabia
@@ -14,3 +12,5 @@ Topic:
 8. Castaway
 9. The African Queen
 10. The Road Warrior
+
+![[11.jpeg]]

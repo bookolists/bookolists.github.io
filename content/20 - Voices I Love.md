@@ -2,8 +2,6 @@
 title: Favorite Voices
 Topic:
 ---
-![[20.jpeg]]
-
 Nat King Cole
 Stevie Wonder
 Al Green
@@ -33,3 +31,5 @@ Keith Richards
 Mick Jones
 Buddy Holly
 Robin Zander
+
+![[20.jpeg]]

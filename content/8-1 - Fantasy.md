@@ -2,8 +2,6 @@
 title: Fantasy Movies
 Topic:
 ---
-![[8.jpeg]]
-
 1. Brazil
 2. Baron Munchausen
 3. Time Bandits
@@ -14,3 +12,5 @@ Topic:
 8. Jason and the Argonauts
 9. It's a Wonderful Life
 10. Groundhog Day
+
+![[8.jpeg]]

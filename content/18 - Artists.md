@@ -2,8 +2,6 @@
 title: Favorite Visual Artists
 Topic:
 ---
-![[18.jpeg]]
-
 Francis Bacon
 Dali
 Degas
@@ -25,3 +23,5 @@ Chuck Close
 Stuart Davis
 Fernand Leger
 Remington
+
+![[18.jpeg]]

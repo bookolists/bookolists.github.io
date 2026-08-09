@@ -2,8 +2,6 @@
 title: Biographical Movies
 Topic:
 ---
-![[13.jpeg]]
-
 1. Lincoln
 2. The Imitation Game
 3. Gandhi 
@@ -14,3 +12,5 @@ Topic:
 8. The Elephant Man
 9. Milk / Tucker: The Man and His Dream
 10. Schindler's List
+
+![[13.jpeg]]

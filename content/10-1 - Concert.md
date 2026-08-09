@@ -2,8 +2,6 @@
 title: Concert Films
 Topic:
 ---
-![[10.jpeg]]
-
 1. Chuck Berry: Hail! Hail! Rock 'n' Roll
 2. Roy Orbison and Friends: A Black and White Night
 3. The Pretenders: Live in London
@@ -14,3 +12,5 @@ Topic:
 8. Sign 'o' the Times
 9. Stop Making Sense
 10. The Last Waltz
+
+![[10.jpeg]]

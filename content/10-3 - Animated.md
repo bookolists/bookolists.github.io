@@ -2,8 +2,6 @@
 title: Animated Movies
 Topic:
 ---
-![[10.jpeg]]
-
 1. Wall-E
 2. The Incredibles
 3. Toy Story
@@ -14,4 +12,6 @@ Topic:
 8. The Iron Giant
 9. Up
 10. Totoro
-Wallace & Gromit
+- Wallace & Gromit
+
+![[10.jpeg]]

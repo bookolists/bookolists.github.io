@@ -2,8 +2,6 @@
 title: Noir Movies
 Topic:
 ---
-![[8.jpeg]]
-
 1. The Maltese Falcon
 2. Blood Simple
 3. Touch of Evil
@@ -14,3 +12,5 @@ Topic:
 8. Brick
 9. The Asphalt Jungle
 10. Charlie Varrick
+
+![[8.jpeg]]

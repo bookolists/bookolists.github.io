@@ -2,8 +2,6 @@
 title: Favorite Vocalists
 Topic:
 ---
-![[24.jpeg]]
-
 Paul McCartney
 Carl Wilson
 James Taylor
@@ -48,3 +46,5 @@ Chris Collingwood
 Adam Schlesinger
 Michael Stipe
 Marc Bolan
+
+![[24.jpeg]]

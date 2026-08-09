@@ -2,8 +2,6 @@
 title: Western Movies
 Topic:
 ---
-![[7.jpeg]]
-
 1. True Grit
 2. Unforgiven
 3. The Searchers
@@ -14,3 +12,5 @@ Topic:
 8. Open Range
 9. Tombstone
 10. Lonesome Dove
+
+![[7.jpeg]]

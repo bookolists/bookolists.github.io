@@ -2,8 +2,6 @@
 title: Comic Book or Superhero
 Topic:
 ---
-![[13.jpeg]]
-
 1. Dr. Strange
 2. Hellboy II
 3. Watchmen
@@ -14,3 +12,5 @@ Topic:
 8. Spider-Man
 9. Deadpool
 10. Iron Man
+
+![[13.jpeg]]

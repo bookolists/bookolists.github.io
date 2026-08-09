@@ -2,8 +2,6 @@
 title: Top Favorites by Genre
 Topic:
 ---
-![[5.jpeg]]
-
 Historical — Lincoln / Schindler's List
 Sports — Raging Bull / 12 Angry Men
 Court Room — Inherit the Wind / The Rainmaker
@@ -29,3 +27,5 @@ Animated — Wall-E / The Incredibles
 Citizen Kane / Indiana Jones: Raiders of the Lost Ark
 Rear Window
 Dr. Strangelove
+
+![[5.jpeg]]

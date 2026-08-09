@@ -2,8 +2,6 @@
 title: Favorite Actors
 Topic:
 ---
-![[21.jpeg]]
-
 (Robert) DeNiro
 Robert Duvall
 Anthony Hopkins
@@ -40,3 +38,5 @@ Lawrence Olivier
 Steve McQueen
 Sam Rockwell
 Guy Pearce
+
+![[21.jpeg]]

@@ -2,8 +2,6 @@
 title: Horror Comedy
 Topic:
 ---
-![[12.jpeg]]
-
 1. Return of the Living Dead
 2. An American Werewolf in London
 3. Zombieland
@@ -12,3 +10,5 @@ Topic:
 6. Gremlins
 7. Beetlejuice
 8. Dawn of the Dead
+
+![[12.jpeg]]

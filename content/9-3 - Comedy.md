@@ -2,8 +2,6 @@
 title: Comedy Movies
 Topic:
 ---
-![[9.jpeg]]
-
 1. Monty Python and the Holy Grail
 2. Raising Arizona
 3. The Big Lebowski
@@ -14,4 +12,6 @@ Topic:
 8. Arsenic and Old Lace
 9. It's a Mad, Mad, Mad, Mad World
 10. Monty Python's Life of Brian
-1941
+- 1941
+
+![[9.jpeg]]
