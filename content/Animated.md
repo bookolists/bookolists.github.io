@@ -12,6 +12,6 @@ Topic:
 8. The Iron Giant
 9. Up
 10. Totoro
-- Wallace & Gromit
+Wallace & Gromit
 
 ![[10.jpeg]]

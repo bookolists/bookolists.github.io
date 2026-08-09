@@ -12,6 +12,6 @@ Topic:
 8. Arsenic and Old Lace
 9. It's a Mad, Mad, Mad, Mad World
 10. Monty Python's Life of Brian
-- 1941
+1941
 
 ![[9.jpeg]]
