@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "article-title": {
+      "source": "github:quartz-community/article-title",
+      "resolved": "https://github.com/quartz-community/article-title.git",
+      "commit": "87499a64e8b9af69bfce23dd5985a33176b14b5e",
+      "installedAt": "2026-08-09T01:50:47.193Z"
+    },
+    "page-title": {
+      "source": "github:quartz-community/page-title",
+      "resolved": "https://github.com/quartz-community/page-title.git",
+      "commit": "a2e035fd9a99fc07197c6627bb21d08c57038fc6",
+      "installedAt": "2026-08-09T01:49:52.929Z"
+    }
+  }
+}
