@@ -11,7 +11,7 @@ Topic:
 **Comedy** — The Holy Grail / Young Frankenstein / Raising Arizona
 **Action** — Aliens / Jurassic Park / Seven Samurai / Apocalypse Now / T2 (Terminator 2) / Apocalypto
 **Crime** — LA Confidential / Miller's Crossing / Snatch / Hombre / Fargo / The Godfather / Pulp Fiction
-**Western** — True Grit / JJ (Jeremiah Johnson) / Unforgiven / Tombstone / Open Range / Hombre / The Searchers
+**Western** — True Grit (2010) / JJ (Jeremiah Johnson) / Unforgiven / Tombstone / Open Range / Hombre / The Searchers
 **Docu** — Ken Burns / Errol Morris / Burden of Dreams / Hearts of Darkness / Grey Gardens
 **Sci Fi** — Alien / Blade Runner / The Fifth Element
 **Mystery** — Rear Window
