@@ -3,8 +3,8 @@ title: Top Favorites by Genre
 Topic:
 ---
 **Historical** — Lincoln / Schindler's List
-**Sports** — Raging Bull / 12 Angry Men
-**Court Room** — Inherit the Wind / The Rainmaker
+**Sports** — Raging Bull
+**Court Room** — Inherit the Wind / The Rainmaker / 12 Angry Men
 **Horror** — Halloween
 **Thriller** — 3 Days of the Condor
 **Drama** — To Kill a Mockingbird / Do the Right Thing / The Shawshank Redemption / The Grapes of Wrath
