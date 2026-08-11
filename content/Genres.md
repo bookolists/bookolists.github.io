@@ -1,5 +1,5 @@
 ---
-title: Top Favorites by Genre
+title: Favorites by Genre
 Topic:
 ---
 **Historical** — Lincoln / Schindler's List
