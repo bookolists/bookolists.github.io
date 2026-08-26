@@ -36,7 +36,6 @@ Topic:
 [Alfred Hitchcock](https://www.imdb.com/name/nm0000033/)
 [Ron Howard](https://www.imdb.com/name/nm0000165/)
 [John Huston](https://www.imdb.com/name/nm0001379/)
-[John Huston](https://www.imdb.com/name/nm0001379/)
 [Jim Jarmusch](https://www.imdb.com/name/nm0000464/)
 [Spike Jonze](https://www.imdb.com/name/nm0005069/)
 [Lawrence Kasdan](https://www.imdb.com/name/nm0001410/)
@@ -77,3 +76,9 @@ Topic:
 ![[14.jpeg]]
 
 ![[scanned_photo0011.png]]
+
+See also:
+[[Favorite Movies]]
+[[Movies I Think Are Near Perfect|Near Perfect Movies]]
+[[Genres|Top Favorites by Genre]]
+[[Actors|Favorite Actors]]

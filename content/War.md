@@ -16,5 +16,6 @@ Topic:
 Bonus:
 - Big Red One
 - Hell in the Pacific
+- Dr. Strangelove
 
-![[11.jpeg]]![[scanned_photo0010.png]]
+![[11.jpeg]]![[scanned_photo0010.png]]![[scanned_photo0018.png]]

@@ -6,6 +6,7 @@ title: Book o' Lists Index
 
 [[Genres|Top Favorites by Genre]]
 [[Movies I Think Are Near Perfect|Near Perfect Movies]]
+[[Favorite Movies]]
 [[Directors|Favorite Directors]]
 [[Actors|Favorite Actors]]
 
@@ -48,7 +49,6 @@ title: Book o' Lists Index
 
 [[Favorite Authors and Books]]
 [[Artists|Favorite Visual Artists]]
-[[Voices I Love|Voices I Love]]
 [[Fav Vocalist|Fav Vocalists]]
 
 # Kevin's Favorite Songs Playlist

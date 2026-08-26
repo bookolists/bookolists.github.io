@@ -17,6 +17,8 @@ Bonus:
 - Goodfellas
 - The Getaway
 - The Untouchables
+- The Asphalt Jungle
+- Bullitt
 
 ![[7.jpeg]]
-![[scanned_photo0010.png]]
+![[scanned_photo0010.png]]![[scanned_photo0017.png]]

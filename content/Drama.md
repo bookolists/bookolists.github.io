@@ -13,4 +13,11 @@ Topic:
 9. One Flew Over the Cuckoo's Nest
 10. Citizen Kane
 
-![[8.jpeg]]
+Bonus:
+- 12 Angry Men
+- Seven Samurai
+- The Rain Maker
+- Cool Hand Luke
+- Inherit the Wind
+
+![[8.jpeg]]![[scanned_photo0018.png]]

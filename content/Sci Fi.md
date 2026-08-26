@@ -15,4 +15,19 @@ Topic:
 11. Enemy Mine
 12. Moon
 
+Bonus:
+- Aliens
+- Outland
+- The Andromeda Strain
+- The Road Warrior
+- Dune (1984)
+- Silent Running
+- The Hidden
+- Starman
+- Contact
+- Idiocracy
+- Jurassic Park
+- District 9
+
 ![[7.jpeg]]
+![[scanned_photo0012.png]]![[scanned_photo0020.png]]

@@ -13,4 +13,7 @@ Topic:
 9. The Asphalt Jungle
 10. Charlie Varrick
 
-![[8.jpeg]]
+Bonus:
+- Payback
+
+![[8.jpeg]]![[scanned_photo0019.png]]

@@ -29,3 +29,9 @@ Rear Window
 Dr. Strangelove
 
 ![[5.jpeg]]
+
+See also:
+[[Favorite Movies]]
+[[Movies I Think Are Near Perfect|Near Perfect Movies]]
+[[Directors|Favorite Directors]]
+[[Actors|Favorite Actors]]

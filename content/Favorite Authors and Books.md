@@ -22,9 +22,9 @@ Louis Dearborn L'Amour (March 22, 1908 – June 10, 1988) was an American noveli
 - *The Outlaws of Mesquite*
 - *Rivers West*
 
-Locations from Louis L'Amour novels:
+Recurring Locations from Louis L'Amour novels:
 
-- Run in the Mule Canyon
+- Mule Canyon
 - Cedar Mesa
 - Canyon De Chelly
 - Hovenweep
