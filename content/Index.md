@@ -46,6 +46,7 @@ title: Book o' Lists Index
 
 # Miscellaneous
 
+[[Favorite Authors and Books]]
 [[Artists|Favorite Visual Artists]]
 [[Voices I Love|Voices I Love]]
 [[Fav Vocalist|Fav Vocalists]]
