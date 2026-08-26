@@ -13,4 +13,8 @@ Topic:
 9. Inglorious Basterds
 10. 1917
 
-![[11.jpeg]]
+Bonus:
+- Big Red One
+- Hell in the Pacific
+
+![[11.jpeg]]![[scanned_photo0010.png]]
