@@ -59,7 +59,7 @@ Topic:
 [Spencer Tracy](https://www.imdb.com/name/nm0000075/)  
 [Bruce Willis](https://www.imdb.com/name/nm0000246/)
 
-![[21.jpeg]]![[scanned_photo0011a.png
+![[21.jpeg]]![[scanned_photo0011a.png]]
 ![[scanned_photo0016.png]]
 
 See also:

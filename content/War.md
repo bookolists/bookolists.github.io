@@ -14,6 +14,7 @@ Topic:
 10. 1917
 
 Bonus:
+- The Steel Helmet
 - Big Red One
 - Hell in the Pacific
 - Dr. Strangelove
